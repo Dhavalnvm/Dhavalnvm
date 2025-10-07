@@ -13,7 +13,7 @@
 - I’m currently exploring **Deep Neural Networks (DNNs) & Large Language Models (LLMs)**  
 - Passionate about **AI, Computer Vision, and Real-world ML applications**  
 - 💡 Fun fact: *The first computer mouse was made of wood!*  
-- 📫 Reach me at **dhavalasmart@gmail.com**
+- 📫 Reach me at **dhavalasmart@gmail.com**  
 
 ---
 
@@ -39,6 +39,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhavalnvm&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalnvm&layout=compact&theme=radical" />
+</p>
+
+### 📈 GitHub Contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhavalnvm&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
