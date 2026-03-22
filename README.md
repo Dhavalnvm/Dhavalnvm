@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhaval Smart</h1>
 <h3 align="center">🚀 Machine Learning & Deep Learning Engineer | AI Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhavalnvm&theme=gruvbox&row=1&column=7" alt="dhavalnvm" />
-  </a>
-</p>
-
 ---
 
 ### 🌱 About Me
