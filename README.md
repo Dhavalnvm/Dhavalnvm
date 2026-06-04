@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Dhaval Smart</h1>
-<h3 align="center">🚀 Machine Learning & Deep Learning Engineer | AI Enthusiast</h3>
+<h1 align="center">Heyo, I'm Dhaval Smart</h1>
+<h3 align="center">Machine Learning & Deep Learning Engineer | AI Enthusiast</h3>
 
 ---
 
-### 🌱 About Me
+### About Me
 - I’m currently exploring **Deep Neural Networks (DNNs) & Large Language Models (LLMs)**  
 - Passionate about **AI, Computer Vision, and Real-world ML applications**  
-- 💡 Fun fact: *The first computer mouse was made of wood!*  
-- 📫 Reach me at **dhavalasmart@gmail.com**  
+- Fun fact: *The first computer mouse was made of wood!*  
+- Reach me at **dhavalasmart@gmail.com**  
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
@@ -30,20 +30,20 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhavalnvm&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalnvm&layout=compact&theme=radical" />
 </p>
 
-### 📈 GitHub Contributions
+### GitHub Contributions
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhavalnvm&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
